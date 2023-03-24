@@ -1,2 +1,2 @@
-# Test_Rammeverk
+# Getting started guide
 Rammeverk 
